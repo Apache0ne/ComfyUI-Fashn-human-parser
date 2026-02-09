@@ -1,0 +1,8 @@
+numpy
+opencv-python
+Pillow
+safetensors
+torch
+transformers
+onnx
+tensorrt
