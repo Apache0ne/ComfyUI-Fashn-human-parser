@@ -1,4 +1,4 @@
-# ComfyUI-Fashn-human-parser-
+# ComfyUI-Fashn-human-parser
 
 ComfyUI custom nodes for FASHN human parsing with a local conversion pipeline:
 
